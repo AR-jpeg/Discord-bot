@@ -1,0 +1,14 @@
+{
+  "name": "adminme",
+  "version": "1.0.0",
+  "description": "A simple discord.js bot that can help with admin tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Rao Udupi, araoudupi@gmail.com, @AR-JPEG",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
